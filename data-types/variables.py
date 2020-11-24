@@ -1,5 +1,10 @@
 x = 5 
+y = 6
+z = 5+6
+c = x + y
 
 
-print(5)
 print(x)
+print(y)
+print(z)
+print(c)
