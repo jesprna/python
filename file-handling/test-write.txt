@@ -1,0 +1,12 @@
+red
+blue
+green
+black
+yellow
+orange
+reds
+blues
+greens
+blacks
+yellows
+oranges
