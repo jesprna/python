@@ -1,0 +1,1 @@
+# Raised when an error does not fall under any other category.
